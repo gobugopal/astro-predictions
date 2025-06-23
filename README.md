@@ -25,4 +25,11 @@
 
 ---
 
+## 👤 Author
 
+**Gobu Gopal**  
+- 🔗 [Portfolio](https://gobugopal.com)  
+- 📫 Email: gobu@ymail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gobugopal)  
+
+---
